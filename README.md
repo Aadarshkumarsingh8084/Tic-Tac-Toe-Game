@@ -6,4 +6,4 @@ Tic-Tac-Toe Game With HTML, CSS, and JavaScript
 <h1>Summary</h1>
 
 
-<p>This project implements a classic Tic-Tac-Toe game, allowing two players to compete against each other. The game features a simple, intuitive interface, enabling users to easily place their marks and determine the winner or a draw. It's built with [mention technologies used, e.g., Python, JavaScript, React, etc.] and provides a fun, interactive way to enjoy the traditional game.</p>
+<p>This project implements a classic Tic-Tac-Toe game, allowing two players to compete against each other. The game features a simple, intuitive interface, enabling users to easily place their marks and determine the winner or a draw. It's built with [mention technologies used, e.g., Python, JavaScript, React, etc.] and provides a fun, interactive way to enjoy the traditional game </p>
